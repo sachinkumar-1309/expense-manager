@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  background-color: #272626;
+}
+.main{
+  margin: 20px;
+}
+.main-expense{
+  background-color: #131313;
+  padding: 20px;
+  width: 60%;
+}
